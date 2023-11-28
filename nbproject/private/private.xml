@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/BancodeDados/AcessoBancoEmpresa.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/EditarComprador.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/Saidas.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/BancodeDados/CategoriaBanco.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/TabelaProdutos.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/EditarUsuario.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/JanelaInicial.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/BancodeDados/FornecedorBanco.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/BancodeDados/AcessoBancoUsuario.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/EditarFornecedor.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/Fornecedores.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/Controle.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/Entidades/Categoria.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/CadastrarUsuario.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/Login.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/BancodeDados/UsuarioBanco.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/Cadastrar.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/EditarEntradas.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/Entidades/Comprador.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/BancodeDados/ProdutoBanco.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/BancodeDados/CompradorBanco.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/BancodeDados/AcessoBancoProduto.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/TabelaComprador.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/BancodeDados/AcessoBancoFornecedor.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/TabelaSaidas.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/Cadastrar1.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/EditarProdutos.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/Entidades/Fornecedor.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/CadastrarComprador.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/Entidades/Produto.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/BancodeDados/AcessoBancoComprador.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/TabelaEntradas.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/CadastrarEmpresa.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/EditarSaidas.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/Entradas.java</file>
+            <file>file:/C:/Users/vmath.DESKTOP-LI10RD6/OneDrive/Área%20de%20Trabalho/Nova%20pasta/ProjetoFinal/src/UI/TabelaUsuario.java</file>
+        </group>
+    </open-files>
+</project-private>
